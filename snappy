@@ -1,0 +1,7 @@
+#! /usr/bin/python2
+
+import os
+import sys
+
+args = sys.argv[0:]
+
